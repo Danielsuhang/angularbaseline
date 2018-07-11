@@ -29,5 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ##Installing Bootstrap
 Start by running `npm install bootstrap' for the latest version of bootstrap 4. Use the built in VSCode terminal with the shortcut `option + ~ for more convienence`
 
-![Alt text](src/assets/stylesCodeExample.png?raw=true "Title")
+![Alt text](src/assets/stylesCodeExample.png)
 
